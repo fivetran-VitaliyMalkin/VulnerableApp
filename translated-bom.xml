@@ -1,0 +1,2096 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bom>
+  <components>
+
+
+    <component type="library" bom-ref="pkg:maven/com.google.api.grpc/proto-google-cloud-datastore-v1@0.54.0">
+      <group>com.google.api.grpc</group>
+      <name>proto-google-cloud-datastore-v1</name>
+      <version>0.54.0</version>
+      <purl>pkg:maven/com.google.api.grpc/proto-google-cloud-datastore-v1@0.54.0</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/io.jsonwebtoken/jjwt@0.9.0">
+      <group>io.jsonwebtoken</group>
+      <name>jjwt</name>
+      <version>0.9.0</version>
+      <purl>pkg:maven/io.jsonwebtoken/jjwt@0.9.0</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/javax.xml.soap/javax.xml.soap-api@1.4.0">
+      <group>javax.xml.soap</group>
+      <name>javax.xml.soap-api</name>
+      <version>1.4.0</version>
+      <purl>pkg:maven/javax.xml.soap/javax.xml.soap-api@1.4.0</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/org.eclipse.jetty/jetty-servlets@9.4.40.v20210413">
+      <group>org.eclipse.jetty</group>
+      <name>jetty-servlets</name>
+      <version>9.4.40.v20210413</version>
+      <purl>pkg:maven/org.eclipse.jetty/jetty-servlets@9.4.40.v20210413</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/com.google.oauth-client/google-oauth-client@1.23.0">
+      <group>com.google.oauth-client</group>
+      <name>google-oauth-client</name>
+      <version>1.23.0</version>
+      <purl>pkg:maven/com.google.oauth-client/google-oauth-client@1.23.0</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/org.eclipse.jetty/jetty-util@9.4.40.v20210413">
+      <group>org.eclipse.jetty</group>
+      <name>jetty-util</name>
+      <version>9.4.40.v20210413</version>
+      <purl>pkg:maven/org.eclipse.jetty/jetty-util@9.4.40.v20210413</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/com.newrelic.telemetry/telemetry-core@0.7.0">
+      <group>com.newrelic.telemetry</group>
+      <name>telemetry-core</name>
+      <version>0.7.0</version>
+      <purl>pkg:maven/com.newrelic.telemetry/telemetry-core@0.7.0</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/org.ow2.asm/asm@8.0.1">
+      <group>org.ow2.asm</group>
+      <name>asm</name>
+      <version>8.0.1</version>
+      <purl>pkg:maven/org.ow2.asm/asm@8.0.1</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/io.grpc/grpc-grpclb@1.39.0">
+      <group>io.grpc</group>
+      <name>grpc-grpclb</name>
+      <version>1.39.0</version>
+      <purl>pkg:maven/io.grpc/grpc-grpclb@1.39.0</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/joda-time/joda-time@2.9.2">
+      <group>joda-time</group>
+      <name>joda-time</name>
+      <version>2.9.2</version>
+      <purl>pkg:maven/joda-time/joda-time@2.9.2</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/org.bouncycastle/bcprov-jdk15to18@1.68">
+      <group>org.bouncycastle</group>
+      <name>bcprov-jdk15to18</name>
+      <version>1.68</version>
+      <purl>pkg:maven/org.bouncycastle/bcprov-jdk15to18@1.68</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/io.grpc/grpc-alts@1.39.0">
+      <group>io.grpc</group>
+      <name>grpc-alts</name>
+      <version>1.39.0</version>
+      <purl>pkg:maven/io.grpc/grpc-alts@1.39.0</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/com.google.auth/google-auth-library-oauth2-http@0.22.0">
+      <group>com.google.auth</group>
+      <name>google-auth-library-oauth2-http</name>
+      <version>0.22.0</version>
+      <purl>pkg:maven/com.google.auth/google-auth-library-oauth2-http@0.22.0</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/org.eclipse.jetty.websocket/websocket-api@9.4.40.v20210413">
+      <group>org.eclipse.jetty.websocket</group>
+      <name>websocket-api</name>
+      <version>9.4.40.v20210413</version>
+      <purl>pkg:maven/org.eclipse.jetty.websocket/websocket-api@9.4.40.v20210413</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/com.google.http-client/google-http-client-protobuf@1.29.1">
+      <group>com.google.http-client</group>
+      <name>google-http-client-protobuf</name>
+      <version>1.29.1</version>
+      <purl>pkg:maven/com.google.http-client/google-http-client-protobuf@1.29.1</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/junit/junit@4.13">
+      <group>junit</group>
+      <name>junit</name>
+      <version>4.13</version>
+      <purl>pkg:maven/junit/junit@4.13</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/org.apache.commons/commons-math3@3.6.1">
+      <group>org.apache.commons</group>
+      <name>commons-math3</name>
+      <version>3.6.1</version>
+      <purl>pkg:maven/org.apache.commons/commons-math3@3.6.1</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/org.joda/joda-convert@1.2">
+      <group>org.joda</group>
+      <name>joda-convert</name>
+      <version>1.2</version>
+      <purl>pkg:maven/org.joda/joda-convert@1.2</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/com.google.api.grpc/proto-google-cloud-monitoring-v3@1.75.0">
+      <group>com.google.api.grpc</group>
+      <name>proto-google-cloud-monitoring-v3</name>
+      <version>1.75.0</version>
+      <purl>pkg:maven/com.google.api.grpc/proto-google-cloud-monitoring-v3@1.75.0</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/com.jayway.jsonpath/json-path@2.4.0">
+      <group>com.jayway.jsonpath</group>
+      <name>json-path</name>
+      <version>2.4.0</version>
+      <purl>pkg:maven/com.jayway.jsonpath/json-path@2.4.0</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/org.parboiled/parboiled-java@1.2.0">
+      <group>org.parboiled</group>
+      <name>parboiled-java</name>
+      <version>1.2.0</version>
+      <purl>pkg:maven/org.parboiled/parboiled-java@1.2.0</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/com.google.cloud/google-cloud-kms@1.13.0">
+      <group>com.google.cloud</group>
+      <name>google-cloud-kms</name>
+      <version>1.13.0</version>
+      <purl>pkg:maven/com.google.cloud/google-cloud-kms@1.13.0</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/com.google.http-client/google-http-client-jackson2@1.35.0">
+      <group>com.google.http-client</group>
+      <name>google-http-client-jackson2</name>
+      <version>1.35.0</version>
+      <purl>pkg:maven/com.google.http-client/google-http-client-jackson2@1.35.0</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/org.glassfish.hk2.external/aopalliance-repackaged@2.6.1">
+      <group>org.glassfish.hk2.external</group>
+      <name>aopalliance-repackaged</name>
+      <version>2.6.1</version>
+      <purl>pkg:maven/org.glassfish.hk2.external/aopalliance-repackaged@2.6.1</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/info.picocli/picocli@4.5.1">
+      <group>info.picocli</group>
+      <name>picocli</name>
+      <version>4.5.1</version>
+      <purl>pkg:maven/info.picocli/picocli@4.5.1</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/it.unimi.dsi/fastutil@8.1.0">
+      <group>it.unimi.dsi</group>
+      <name>fastutil</name>
+      <version>8.1.0</version>
+      <purl>pkg:maven/it.unimi.dsi/fastutil@8.1.0</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/org.bouncycastle/bcprov-ext-jdk15on@1.61">
+      <group>org.bouncycastle</group>
+      <name>bcprov-ext-jdk15on</name>
+      <version>1.61</version>
+      <purl>pkg:maven/org.bouncycastle/bcprov-ext-jdk15on@1.61</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/org.apache.httpcomponents/httpclient@4.5.13">
+      <group>org.apache.httpcomponents</group>
+      <name>httpclient</name>
+      <version>4.5.13</version>
+      <purl>pkg:maven/org.apache.httpcomponents/httpclient@4.5.13</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/com.fasterxml.jackson.dataformat/jackson-dataformat-yaml@2.9.8">
+      <group>com.fasterxml.jackson.dataformat</group>
+      <name>jackson-dataformat-yaml</name>
+      <version>2.9.8</version>
+      <purl>pkg:maven/com.fasterxml.jackson.dataformat/jackson-dataformat-yaml@2.9.8</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/org.ow2.asm/asm-util@8.0.1">
+      <group>org.ow2.asm</group>
+      <name>asm-util</name>
+      <version>8.0.1</version>
+      <purl>pkg:maven/org.ow2.asm/asm-util@8.0.1</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/io.sundr/sundr-core@0.8.0">
+      <group>io.sundr</group>
+      <name>sundr-core</name>
+      <version>0.8.0</version>
+      <purl>pkg:maven/io.sundr/sundr-core@0.8.0</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/com.sun.mail/javax.mail@1.5.4">
+      <group>com.sun.mail</group>
+      <name>javax.mail</name>
+      <version>1.5.4</version>
+      <purl>pkg:maven/com.sun.mail/javax.mail@1.5.4</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/net.minidev/json-smart@2.3">
+      <group>net.minidev</group>
+      <name>json-smart</name>
+      <version>2.3</version>
+      <purl>pkg:maven/net.minidev/json-smart@2.3</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/org.javassist/javassist@3.21.0-GA">
+      <group>org.javassist</group>
+      <name>javassist</name>
+      <version>3.21.0-GA</version>
+      <purl>pkg:maven/org.javassist/javassist@3.21.0-GA</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/io.jsonwebtoken/jjwt-jackson@0.10.5">
+      <group>io.jsonwebtoken</group>
+      <name>jjwt-jackson</name>
+      <version>0.10.5</version>
+      <purl>pkg:maven/io.jsonwebtoken/jjwt-jackson@0.10.5</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/org.glassfish.jersey.core/jersey-common@2.31">
+      <group>org.glassfish.jersey.core</group>
+      <name>jersey-common</name>
+      <version>2.31</version>
+      <purl>pkg:maven/org.glassfish.jersey.core/jersey-common@2.31</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/com.amazonaws/aws-java-sdk-dynamodb@1.11.438">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-dynamodb</name>
+      <version>1.11.438</version>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-dynamodb@1.11.438</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/org.slf4j/slf4j-api@1.7.13">
+      <group>org.slf4j</group>
+      <name>slf4j-api</name>
+      <version>1.7.13</version>
+      <purl>pkg:maven/org.slf4j/slf4j-api@1.7.13</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/com.google.api.grpc/proto-google-iam-v1@0.13.0">
+      <group>com.google.api.grpc</group>
+      <name>proto-google-iam-v1</name>
+      <version>0.13.0</version>
+      <purl>pkg:maven/com.google.api.grpc/proto-google-iam-v1@0.13.0</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/org.eclipse.jetty/jetty-http@9.4.40.v20210413">
+      <group>org.eclipse.jetty</group>
+      <name>jetty-http</name>
+      <version>9.4.40.v20210413</version>
+      <purl>pkg:maven/org.eclipse.jetty/jetty-http@9.4.40.v20210413</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/com.google.api.grpc/proto-google-cloud-pubsub-v1@1.93.4">
+      <group>com.google.api.grpc</group>
+      <name>proto-google-cloud-pubsub-v1</name>
+      <version>1.93.4</version>
+      <purl>pkg:maven/com.google.api.grpc/proto-google-cloud-pubsub-v1@1.93.4</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/io.opencensus/opencensus-api@0.12.3">
+      <group>io.opencensus</group>
+      <name>opencensus-api</name>
+      <version>0.12.3</version>
+      <purl>pkg:maven/io.opencensus/opencensus-api@0.12.3</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/org.glassfish.hk2/hk2-locator@2.6.1">
+      <group>org.glassfish.hk2</group>
+      <name>hk2-locator</name>
+      <version>2.6.1</version>
+      <purl>pkg:maven/org.glassfish.hk2/hk2-locator@2.6.1</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/com.google.cloud/google-cloud-core-http@1.48.0">
+      <group>com.google.cloud</group>
+      <name>google-cloud-core-http</name>
+      <version>1.48.0</version>
+      <purl>pkg:maven/com.google.cloud/google-cloud-core-http@1.48.0</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/javax.xml.stream/stax-api@1.0-2">
+      <group>javax.xml.stream</group>
+      <name>stax-api</name>
+      <version>1.0-2</version>
+      <purl>pkg:maven/javax.xml.stream/stax-api@1.0-2</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/net.bytebuddy/byte-buddy-agent@1.10.14">
+      <group>net.bytebuddy</group>
+      <name>byte-buddy-agent</name>
+      <version>1.10.14</version>
+      <purl>pkg:maven/net.bytebuddy/byte-buddy-agent@1.10.14</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/commons-lang/commons-lang@2.6">
+      <group>commons-lang</group>
+      <name>commons-lang</name>
+      <version>2.6</version>
+      <purl>pkg:maven/commons-lang/commons-lang@2.6</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/io.grpc/grpc-protobuf-lite@1.32.2">
+      <group>io.grpc</group>
+      <name>grpc-protobuf-lite</name>
+      <version>1.32.2</version>
+      <purl>pkg:maven/io.grpc/grpc-protobuf-lite@1.32.2</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/com.google.cloud/google-cloud-pubsub@1.113.9">
+      <group>com.google.cloud</group>
+      <name>google-cloud-pubsub</name>
+      <version>1.113.9</version>
+      <purl>pkg:maven/com.google.cloud/google-cloud-pubsub@1.113.9</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/io.kubernetes/client-java@3.0.0-beta2">
+      <group>io.kubernetes</group>
+      <name>client-java</name>
+      <version>3.0.0-beta2</version>
+      <purl>pkg:maven/io.kubernetes/client-java@3.0.0-beta2</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/com.fasterxml.jackson.datatype/jackson-datatype-jdk8@2.9.8">
+      <group>com.fasterxml.jackson.datatype</group>
+      <name>jackson-datatype-jdk8</name>
+      <version>2.9.8</version>
+      <purl>pkg:maven/com.fasterxml.jackson.datatype/jackson-datatype-jdk8@2.9.8</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/jakarta.validation/jakarta.validation-api@2.0.2">
+      <group>jakarta.validation</group>
+      <name>jakarta.validation-api</name>
+      <version>2.0.2</version>
+      <purl>pkg:maven/jakarta.validation/jakarta.validation-api@2.0.2</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/javax.activation/activation@1.1">
+      <group>javax.activation</group>
+      <name>activation</name>
+      <version>1.1</version>
+      <purl>pkg:maven/javax.activation/activation@1.1</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/software.amazon.ion/ion-java@1.0.2">
+      <group>software.amazon.ion</group>
+      <name>ion-java</name>
+      <version>1.0.2</version>
+      <purl>pkg:maven/software.amazon.ion/ion-java@1.0.2</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/com.google.http-client/google-http-client@1.39.2">
+      <group>com.google.http-client</group>
+      <name>google-http-client</name>
+      <version>1.39.2</version>
+      <purl>pkg:maven/com.google.http-client/google-http-client@1.39.2</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/com.google.apis/google-api-services-storage@v1-rev20200326-1.30.9">
+      <group>com.google.apis</group>
+      <name>google-api-services-storage</name>
+      <version>v1-rev20200326-1.30.9</version>
+      <purl>pkg:maven/com.google.apis/google-api-services-storage@v1-rev20200326-1.30.9</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/org.eclipse.jetty.websocket/websocket-servlet@9.4.40.v20210413">
+      <group>org.eclipse.jetty.websocket</group>
+      <name>websocket-servlet</name>
+      <version>9.4.40.v20210413</version>
+      <purl>pkg:maven/org.eclipse.jetty.websocket/websocket-servlet@9.4.40.v20210413</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/org.glassfish.hk2/osgi-resource-locator@1.0.3">
+      <group>org.glassfish.hk2</group>
+      <name>osgi-resource-locator</name>
+      <version>1.0.3</version>
+      <purl>pkg:maven/org.glassfish.hk2/osgi-resource-locator@1.0.3</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/com.amazonaws/aws-encryption-sdk-java@1.6.1">
+      <group>com.amazonaws</group>
+      <name>aws-encryption-sdk-java</name>
+      <version>1.6.1</version>
+      <purl>pkg:maven/com.amazonaws/aws-encryption-sdk-java@1.6.1</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/org.codehaus.jackson/jackson-core-asl@1.9.13">
+      <group>org.codehaus.jackson</group>
+      <name>jackson-core-asl</name>
+      <version>1.9.13</version>
+      <purl>pkg:maven/org.codehaus.jackson/jackson-core-asl@1.9.13</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/org.glassfish.jersey.media/jersey-media-json-jackson@2.31">
+      <group>org.glassfish.jersey.media</group>
+      <name>jersey-media-json-jackson</name>
+      <version>2.31</version>
+      <purl>pkg:maven/org.glassfish.jersey.media/jersey-media-json-jackson@2.31</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/io.grpc/grpc-stub@1.32.2">
+      <group>io.grpc</group>
+      <name>grpc-stub</name>
+      <version>1.32.2</version>
+      <purl>pkg:maven/io.grpc/grpc-stub@1.32.2</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/org.bouncycastle/bcpkix-jdk15on@1.54">
+      <group>org.bouncycastle</group>
+      <name>bcpkix-jdk15on</name>
+      <version>1.54</version>
+      <purl>pkg:maven/org.bouncycastle/bcpkix-jdk15on@1.54</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/io.micrometer/micrometer-core@1.5.3">
+      <group>io.micrometer</group>
+      <name>micrometer-core</name>
+      <version>1.5.3</version>
+      <purl>pkg:maven/io.micrometer/micrometer-core@1.5.3</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/org.glassfish.jersey.core/jersey-client@2.31">
+      <group>org.glassfish.jersey.core</group>
+      <name>jersey-client</name>
+      <version>2.31</version>
+      <purl>pkg:maven/org.glassfish.jersey.core/jersey-client@2.31</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/javax.resource/javax.resource-api@1.7.1">
+      <group>javax.resource</group>
+      <name>javax.resource-api</name>
+      <version>1.7.1</version>
+      <purl>pkg:maven/javax.resource/javax.resource-api@1.7.1</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/net.sf.jopt-simple/jopt-simple@5.0.4">
+      <group>net.sf.jopt-simple</group>
+      <name>jopt-simple</name>
+      <version>5.0.4</version>
+      <purl>pkg:maven/net.sf.jopt-simple/jopt-simple@5.0.4</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/com.newrelic.telemetry/micrometer-registry-new-relic@0.6.0">
+      <group>com.newrelic.telemetry</group>
+      <name>micrometer-registry-new-relic</name>
+      <version>0.6.0</version>
+      <purl>pkg:maven/com.newrelic.telemetry/micrometer-registry-new-relic@0.6.0</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/io.sundr/builder-annotations@0.8.0">
+      <group>io.sundr</group>
+      <name>builder-annotations</name>
+      <version>0.8.0</version>
+      <purl>pkg:maven/io.sundr/builder-annotations@0.8.0</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/com.squareup.okhttp/okhttp@2.7.5">
+      <group>com.squareup.okhttp</group>
+      <name>okhttp</name>
+      <version>2.7.5</version>
+      <purl>pkg:maven/com.squareup.okhttp/okhttp@2.7.5</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/org.eclipse.jetty/jetty-plus@9.4.40.v20210413">
+      <group>org.eclipse.jetty</group>
+      <name>jetty-plus</name>
+      <version>9.4.40.v20210413</version>
+      <purl>pkg:maven/org.eclipse.jetty/jetty-plus@9.4.40.v20210413</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/org.json/json@20171018">
+      <group>org.json</group>
+      <name>json</name>
+      <version>20171018</version>
+      <purl>pkg:maven/org.json/json@20171018</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/org.conscrypt/conscrypt-openjdk-uber@2.5.1">
+      <group>org.conscrypt</group>
+      <name>conscrypt-openjdk-uber</name>
+      <version>2.5.1</version>
+      <purl>pkg:maven/org.conscrypt/conscrypt-openjdk-uber@2.5.1</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/com.amazonaws/aws-java-sdk-cloudtrail@1.11.438">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-cloudtrail</name>
+      <version>1.11.438</version>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-cloudtrail@1.11.438</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/com.google.api/gax-grpc@1.65.0">
+      <group>com.google.api</group>
+      <name>gax-grpc</name>
+      <version>1.65.0</version>
+      <purl>pkg:maven/com.google.api/gax-grpc@1.65.0</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/org.glassfish.jersey.security/oauth1-client@2.31">
+      <group>org.glassfish.jersey.security</group>
+      <name>oauth1-client</name>
+      <version>2.31</version>
+      <purl>pkg:maven/org.glassfish.jersey.security/oauth1-client@2.31</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/org.eclipse.jetty/jetty-servlet@9.4.40.v20210413">
+      <group>org.eclipse.jetty</group>
+      <name>jetty-servlet</name>
+      <version>9.4.40.v20210413</version>
+      <purl>pkg:maven/org.eclipse.jetty/jetty-servlet@9.4.40.v20210413</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/com.google.cloud/google-cloud-core-grpc@1.19.0">
+      <group>com.google.cloud</group>
+      <name>google-cloud-core-grpc</name>
+      <version>1.19.0</version>
+      <purl>pkg:maven/com.google.cloud/google-cloud-core-grpc@1.19.0</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/org.mockito/mockito-core@2.28.2">
+      <group>org.mockito</group>
+      <name>mockito-core</name>
+      <version>2.28.2</version>
+      <purl>pkg:maven/org.mockito/mockito-core@2.28.2</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/org.glassfish.jersey.containers/jersey-container-servlet-core@2.31">
+      <group>org.glassfish.jersey.containers</group>
+      <name>jersey-container-servlet-core</name>
+      <version>2.31</version>
+      <purl>pkg:maven/org.glassfish.jersey.containers/jersey-container-servlet-core@2.31</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/com.okta.commons/okta-commons-lang@1.2.1">
+      <group>com.okta.commons</group>
+      <name>okta-commons-lang</name>
+      <version>1.2.1</version>
+      <purl>pkg:maven/com.okta.commons/okta-commons-lang@1.2.1</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/org.eclipse.jetty/jetty-server@9.4.40.v20210413">
+      <group>org.eclipse.jetty</group>
+      <name>jetty-server</name>
+      <version>9.4.40.v20210413</version>
+      <purl>pkg:maven/org.eclipse.jetty/jetty-server@9.4.40.v20210413</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/org.hamcrest/hamcrest@2.2">
+      <group>org.hamcrest</group>
+      <name>hamcrest</name>
+      <version>2.2</version>
+      <purl>pkg:maven/org.hamcrest/hamcrest@2.2</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/com.google.apis/google-api-services-iam@v1-rev193-1.22.0">
+      <group>com.google.apis</group>
+      <name>google-api-services-iam</name>
+      <version>v1-rev193-1.22.0</version>
+      <purl>pkg:maven/com.google.apis/google-api-services-iam@v1-rev193-1.22.0</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/com.github.jknack/handlebars@4.0.7">
+      <group>com.github.jknack</group>
+      <name>handlebars</name>
+      <version>4.0.7</version>
+      <purl>pkg:maven/com.github.jknack/handlebars@4.0.7</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/org.eclipse.jetty/jetty-jndi@9.4.40.v20210413">
+      <group>org.eclipse.jetty</group>
+      <name>jetty-jndi</name>
+      <version>9.4.40.v20210413</version>
+      <purl>pkg:maven/org.eclipse.jetty/jetty-jndi@9.4.40.v20210413</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/com.google.guava/failureaccess@1.0.1">
+      <group>com.google.guava</group>
+      <name>failureaccess</name>
+      <version>1.0.1</version>
+      <purl>pkg:maven/com.google.guava/failureaccess@1.0.1</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/com.sun.xml.bind/jaxb-impl@2.2.11">
+      <group>com.sun.xml.bind</group>
+      <name>jaxb-impl</name>
+      <version>2.2.11</version>
+      <purl>pkg:maven/com.sun.xml.bind/jaxb-impl@2.2.11</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/com.squareup.okhttp/okhttp-ws@2.7.5">
+      <group>com.squareup.okhttp</group>
+      <name>okhttp-ws</name>
+      <version>2.7.5</version>
+      <purl>pkg:maven/com.squareup.okhttp/okhttp-ws@2.7.5</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/javax.servlet/javax.servlet-api@3.1.0">
+      <group>javax.servlet</group>
+      <name>javax.servlet-api</name>
+      <version>3.1.0</version>
+      <purl>pkg:maven/javax.servlet/javax.servlet-api@3.1.0</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/org.apache.velocity/velocity@1.7">
+      <group>org.apache.velocity</group>
+      <name>velocity</name>
+      <version>1.7</version>
+      <purl>pkg:maven/org.apache.velocity/velocity@1.7</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/com.google.apis/google-api-services-bigquery@v2-rev459-1.25.0">
+      <group>com.google.apis</group>
+      <name>google-api-services-bigquery</name>
+      <version>v2-rev459-1.25.0</version>
+      <purl>pkg:maven/com.google.apis/google-api-services-bigquery@v2-rev459-1.25.0</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/io.projectreactor/reactor-core@3.4.11">
+      <group>io.projectreactor</group>
+      <name>reactor-core</name>
+      <version>3.4.11</version>
+      <purl>pkg:maven/io.projectreactor/reactor-core@3.4.11</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/com.google.http-client/google-http-client-jackson@1.23.0">
+      <group>com.google.http-client</group>
+      <name>google-http-client-jackson</name>
+      <version>1.23.0</version>
+      <purl>pkg:maven/com.google.http-client/google-http-client-jackson@1.23.0</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/org.openjdk.jmh/jmh-core@1.19">
+      <group>org.openjdk.jmh</group>
+      <name>jmh-core</name>
+      <version>1.19</version>
+      <purl>pkg:maven/org.openjdk.jmh/jmh-core@1.19</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/io.kubernetes/client-java-api@3.0.0-beta2">
+      <group>io.kubernetes</group>
+      <name>client-java-api</name>
+      <version>3.0.0-beta2</version>
+      <purl>pkg:maven/io.kubernetes/client-java-api@3.0.0-beta2</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/io.jsonwebtoken/jjwt-impl@0.10.5">
+      <group>io.jsonwebtoken</group>
+      <name>jjwt-impl</name>
+      <version>0.10.5</version>
+      <purl>pkg:maven/io.jsonwebtoken/jjwt-impl@0.10.5</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/com.github.alexandrnikitin/bloom-filter_2.11@0.11.0">
+      <group>com.github.alexandrnikitin</group>
+      <name>bloom-filter_2.11</name>
+      <version>0.11.0</version>
+      <purl>pkg:maven/com.github.alexandrnikitin/bloom-filter_2.11@0.11.0</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/org.eclipse.jetty/jetty-io@9.4.40.v20210413">
+      <group>org.eclipse.jetty</group>
+      <name>jetty-io</name>
+      <version>9.4.40.v20210413</version>
+      <purl>pkg:maven/org.eclipse.jetty/jetty-io@9.4.40.v20210413</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/com.squareup.okhttp3/okhttp@3.11.0">
+      <group>com.squareup.okhttp3</group>
+      <name>okhttp</name>
+      <version>3.11.0</version>
+      <purl>pkg:maven/com.squareup.okhttp3/okhttp@3.11.0</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/javax.transaction/javax.transaction-api@1.3">
+      <group>javax.transaction</group>
+      <name>javax.transaction-api</name>
+      <version>1.3</version>
+      <purl>pkg:maven/javax.transaction/javax.transaction-api@1.3</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/com.okta.jwt/okta-jwt-verifier-impl@0.4.0">
+      <group>com.okta.jwt</group>
+      <name>okta-jwt-verifier-impl</name>
+      <version>0.4.0</version>
+      <purl>pkg:maven/com.okta.jwt/okta-jwt-verifier-impl@0.4.0</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/com.google.cloud/google-cloud-monitoring@1.93.0">
+      <group>com.google.cloud</group>
+      <name>google-cloud-monitoring</name>
+      <version>1.93.0</version>
+      <purl>pkg:maven/com.google.cloud/google-cloud-monitoring@1.93.0</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/org.rocksdb/rocksdbjni@6.8.1">
+      <group>org.rocksdb</group>
+      <name>rocksdbjni</name>
+      <version>6.8.1</version>
+      <purl>pkg:maven/org.rocksdb/rocksdbjni@6.8.1</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/com.fasterxml.jackson.core/jackson-databind@2.9.8">
+      <group>com.fasterxml.jackson.core</group>
+      <name>jackson-databind</name>
+      <version>2.9.8</version>
+      <purl>pkg:maven/com.fasterxml.jackson.core/jackson-databind@2.9.8</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/org.eclipse.jetty.websocket/websocket-common@9.4.40.v20210413">
+      <group>org.eclipse.jetty.websocket</group>
+      <name>websocket-common</name>
+      <version>9.4.40.v20210413</version>
+      <purl>pkg:maven/org.eclipse.jetty.websocket/websocket-common@9.4.40.v20210413</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/com.google.auto.value/auto-value-annotations@1.8.2">
+      <group>com.google.auto.value</group>
+      <name>auto-value-annotations</name>
+      <version>1.8.2</version>
+      <purl>pkg:maven/com.google.auto.value/auto-value-annotations@1.8.2</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/com.github.jknack/handlebars-helpers@4.0.7">
+      <group>com.github.jknack</group>
+      <name>handlebars-helpers</name>
+      <version>4.0.7</version>
+      <purl>pkg:maven/com.github.jknack/handlebars-helpers@4.0.7</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/jakarta.ws.rs/jakarta.ws.rs-api@2.1.6">
+      <group>jakarta.ws.rs</group>
+      <name>jakarta.ws.rs-api</name>
+      <version>2.1.6</version>
+      <purl>pkg:maven/jakarta.ws.rs/jakarta.ws.rs-api@2.1.6</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/com.google.http-client/google-http-client-gson@1.39.2">
+      <group>com.google.http-client</group>
+      <name>google-http-client-gson</name>
+      <version>1.39.2</version>
+      <purl>pkg:maven/com.google.http-client/google-http-client-gson@1.39.2</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/com.google.api/api-common@1.9.0">
+      <group>com.google.api</group>
+      <name>api-common</name>
+      <version>1.9.0</version>
+      <purl>pkg:maven/com.google.api/api-common@1.9.0</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/org.glassfish.jersey.security/oauth1-signature@2.31">
+      <group>org.glassfish.jersey.security</group>
+      <name>oauth1-signature</name>
+      <version>2.31</version>
+      <purl>pkg:maven/org.glassfish.jersey.security/oauth1-signature@2.31</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/com.intellij/annotations@12.0">
+      <group>com.intellij</group>
+      <name>annotations</name>
+      <version>12.0</version>
+      <purl>pkg:maven/com.intellij/annotations@12.0</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/com.google.http-client/google-http-client-appengine@1.23.0">
+      <group>com.google.http-client</group>
+      <name>google-http-client-appengine</name>
+      <version>1.23.0</version>
+      <purl>pkg:maven/com.google.http-client/google-http-client-appengine@1.23.0</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/com.mchange/mchange-commons-java@0.2.10">
+      <group>com.mchange</group>
+      <name>mchange-commons-java</name>
+      <version>0.2.10</version>
+      <purl>pkg:maven/com.mchange/mchange-commons-java@0.2.10</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/com.amazonaws/aws-java-sdk-logs@1.11.438">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-logs</name>
+      <version>1.11.438</version>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-logs@1.11.438</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/org.eclipse.jetty.websocket/websocket-client@9.4.40.v20210413">
+      <group>org.eclipse.jetty.websocket</group>
+      <name>websocket-client</name>
+      <version>9.4.40.v20210413</version>
+      <purl>pkg:maven/org.eclipse.jetty.websocket/websocket-client@9.4.40.v20210413</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/com.fasterxml.jackson.datatype/jackson-datatype-joda@2.9.8">
+      <group>com.fasterxml.jackson.datatype</group>
+      <name>jackson-datatype-joda</name>
+      <version>2.9.8</version>
+      <purl>pkg:maven/com.fasterxml.jackson.datatype/jackson-datatype-joda@2.9.8</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/org.ow2.asm/asm-commons@8.0.1">
+      <group>org.ow2.asm</group>
+      <name>asm-commons</name>
+      <version>8.0.1</version>
+      <purl>pkg:maven/org.ow2.asm/asm-commons@8.0.1</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/org.xerial.snappy/snappy-java@1.1.7.3">
+      <group>org.xerial.snappy</group>
+      <name>snappy-java</name>
+      <version>1.1.7.3</version>
+      <purl>pkg:maven/org.xerial.snappy/snappy-java@1.1.7.3</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/org.apache.commons/commons-pool2@2.8.0">
+      <group>org.apache.commons</group>
+      <name>commons-pool2</name>
+      <version>2.8.0</version>
+      <purl>pkg:maven/org.apache.commons/commons-pool2@2.8.0</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/io.grpc/grpc-api@1.32.2">
+      <group>io.grpc</group>
+      <name>grpc-api</name>
+      <version>1.32.2</version>
+      <purl>pkg:maven/io.grpc/grpc-api@1.32.2</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/com.google.cloud/google-cloud-logging@1.19.0">
+      <group>com.google.cloud</group>
+      <name>google-cloud-logging</name>
+      <version>1.19.0</version>
+      <purl>pkg:maven/com.google.cloud/google-cloud-logging@1.19.0</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/org.eclipse.jetty/jetty-annotations@9.4.40.v20210413">
+      <group>org.eclipse.jetty</group>
+      <name>jetty-annotations</name>
+      <version>9.4.40.v20210413</version>
+      <purl>pkg:maven/org.eclipse.jetty/jetty-annotations@9.4.40.v20210413</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/org.objenesis/objenesis@2.6">
+      <group>org.objenesis</group>
+      <name>objenesis</name>
+      <version>2.6</version>
+      <purl>pkg:maven/org.objenesis/objenesis@2.6</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/com.microsoft.azure/adal4j@1.6.3">
+      <group>com.microsoft.azure</group>
+      <name>adal4j</name>
+      <version>1.6.3</version>
+      <purl>pkg:maven/com.microsoft.azure/adal4j@1.6.3</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/com.google.protobuf/protobuf-javalite@3.12.0">
+      <group>com.google.protobuf</group>
+      <name>protobuf-javalite</name>
+      <version>3.12.0</version>
+      <purl>pkg:maven/com.google.protobuf/protobuf-javalite@3.12.0</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/com.amazonaws/aws-java-sdk-core@1.12.84">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-core</name>
+      <version>1.12.84</version>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-core@1.12.84</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/org.parboiled/parboiled-core@1.2.0">
+      <group>org.parboiled</group>
+      <name>parboiled-core</name>
+      <version>1.2.0</version>
+      <purl>pkg:maven/org.parboiled/parboiled-core@1.2.0</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/com.sun.activation/jakarta.activation@1.2.2">
+      <group>com.sun.activation</group>
+      <name>jakarta.activation</name>
+      <version>1.2.2</version>
+      <purl>pkg:maven/com.sun.activation/jakarta.activation@1.2.2</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/com.amazonaws/aws-java-sdk-cloudwatch@1.11.438">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-cloudwatch</name>
+      <version>1.11.438</version>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-cloudwatch@1.11.438</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/org.ow2.asm/asm-tree@8.0.1">
+      <group>org.ow2.asm</group>
+      <name>asm-tree</name>
+      <version>8.0.1</version>
+      <purl>pkg:maven/org.ow2.asm/asm-tree@8.0.1</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/org.antlr/antlr4-runtime@4.7.1">
+      <group>org.antlr</group>
+      <name>antlr4-runtime</name>
+      <version>4.7.1</version>
+      <purl>pkg:maven/org.antlr/antlr4-runtime@4.7.1</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/com.google.api.grpc/proto-google-common-protos@1.15.0">
+      <group>com.google.api.grpc</group>
+      <name>proto-google-common-protos</name>
+      <version>1.15.0</version>
+      <purl>pkg:maven/com.google.api.grpc/proto-google-common-protos@1.15.0</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/org.jetbrains/annotations@13.0">
+      <group>org.jetbrains</group>
+      <name>annotations</name>
+      <version>13.0</version>
+      <purl>pkg:maven/org.jetbrains/annotations@13.0</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/com.fasterxml.jackson.datatype/jackson-datatype-jsr310@2.9.8">
+      <group>com.fasterxml.jackson.datatype</group>
+      <name>jackson-datatype-jsr310</name>
+      <version>2.9.8</version>
+      <purl>pkg:maven/com.fasterxml.jackson.datatype/jackson-datatype-jsr310@2.9.8</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/com.zaxxer/HikariCP@3.4.1">
+      <group>com.zaxxer</group>
+      <name>HikariCP</name>
+      <version>3.4.1</version>
+      <purl>pkg:maven/com.zaxxer/HikariCP@3.4.1</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/com.github.stephenc.jcip/jcip-annotations@1.0-1">
+      <group>com.github.stephenc.jcip</group>
+      <name>jcip-annotations</name>
+      <version>1.0-1</version>
+      <purl>pkg:maven/com.github.stephenc.jcip/jcip-annotations@1.0-1</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/org.apache.logging.log4j/log4j-api@2.1">
+      <group>org.apache.logging.log4j</group>
+      <name>log4j-api</name>
+      <version>2.1</version>
+      <purl>pkg:maven/org.apache.logging.log4j/log4j-api@2.1</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/com.nimbusds/oauth2-oidc-sdk@5.64.4">
+      <group>com.nimbusds</group>
+      <name>oauth2-oidc-sdk</name>
+      <version>5.64.4</version>
+      <purl>pkg:maven/com.nimbusds/oauth2-oidc-sdk@5.64.4</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/org.glassfish.jersey.inject/jersey-hk2@2.31">
+      <group>org.glassfish.jersey.inject</group>
+      <name>jersey-hk2</name>
+      <version>2.31</version>
+      <purl>pkg:maven/org.glassfish.jersey.inject/jersey-hk2@2.31</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/org.hamcrest/hamcrest-core@2.2">
+      <group>org.hamcrest</group>
+      <name>hamcrest-core</name>
+      <version>2.2</version>
+      <purl>pkg:maven/org.hamcrest/hamcrest-core@2.2</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/com.google.http-client/google-http-client-apache-v2@1.38.0">
+      <group>com.google.http-client</group>
+      <name>google-http-client-apache-v2</name>
+      <version>1.38.0</version>
+      <purl>pkg:maven/com.google.http-client/google-http-client-apache-v2@1.38.0</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/io.grpc/grpc-core@1.32.2">
+      <group>io.grpc</group>
+      <name>grpc-core</name>
+      <version>1.32.2</version>
+      <purl>pkg:maven/io.grpc/grpc-core@1.32.2</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/org.eclipse.jetty.websocket/javax-websocket-server-impl@9.4.40.v20210413">
+      <group>org.eclipse.jetty.websocket</group>
+      <name>javax-websocket-server-impl</name>
+      <version>9.4.40.v20210413</version>
+      <purl>pkg:maven/org.eclipse.jetty.websocket/javax-websocket-server-impl@9.4.40.v20210413</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/com.amazonaws/aws-java-sdk-ses@1.11.438">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-ses</name>
+      <version>1.11.438</version>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-ses@1.11.438</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/org.awaitility/awaitility@4.0.3">
+      <group>org.awaitility</group>
+      <name>awaitility</name>
+      <version>4.0.3</version>
+      <purl>pkg:maven/org.awaitility/awaitility@4.0.3</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/com.google.android/annotations@4.1.1.4">
+      <group>com.google.android</group>
+      <name>annotations</name>
+      <version>4.1.1.4</version>
+      <purl>pkg:maven/com.google.android/annotations@4.1.1.4</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/jakarta.xml.bind/jakarta.xml.bind-api@2.3.3">
+      <group>jakarta.xml.bind</group>
+      <name>jakarta.xml.bind-api</name>
+      <version>2.3.3</version>
+      <purl>pkg:maven/jakarta.xml.bind/jakarta.xml.bind-api@2.3.3</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/io.grpc/grpc-auth@1.32.2">
+      <group>io.grpc</group>
+      <name>grpc-auth</name>
+      <version>1.32.2</version>
+      <purl>pkg:maven/io.grpc/grpc-auth@1.32.2</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/io.sundr/sundr-codegen@0.8.0">
+      <group>io.sundr</group>
+      <name>sundr-codegen</name>
+      <version>0.8.0</version>
+      <purl>pkg:maven/io.sundr/sundr-codegen@0.8.0</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/jakarta.annotation/jakarta.annotation-api@1.3.5">
+      <group>jakarta.annotation</group>
+      <name>jakarta.annotation-api</name>
+      <version>1.3.5</version>
+      <purl>pkg:maven/jakarta.annotation/jakarta.annotation-api@1.3.5</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/com.fasterxml.jackson.core/jackson-core@2.9.8">
+      <group>com.fasterxml.jackson.core</group>
+      <name>jackson-core</name>
+      <version>2.9.8</version>
+      <purl>pkg:maven/com.fasterxml.jackson.core/jackson-core@2.9.8</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/org.apache.httpcomponents/httpcore@4.4.13">
+      <group>org.apache.httpcomponents</group>
+      <name>httpcore</name>
+      <version>4.4.13</version>
+      <purl>pkg:maven/org.apache.httpcomponents/httpcore@4.4.13</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/com.google.cloud/google-cloud-storage@1.108.0">
+      <group>com.google.cloud</group>
+      <name>google-cloud-storage</name>
+      <version>1.108.0</version>
+      <purl>pkg:maven/com.google.cloud/google-cloud-storage@1.108.0</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/jakarta.activation/jakarta.activation-api@1.2.2">
+      <group>jakarta.activation</group>
+      <name>jakarta.activation-api</name>
+      <version>1.2.2</version>
+      <purl>pkg:maven/jakarta.activation/jakarta.activation-api@1.2.2</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/org.eclipse.jetty/jetty-xml@9.4.40.v20210413">
+      <group>org.eclipse.jetty</group>
+      <name>jetty-xml</name>
+      <version>9.4.40.v20210413</version>
+      <purl>pkg:maven/org.eclipse.jetty/jetty-xml@9.4.40.v20210413</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/org.apache.commons/commons-lang3@3.12.0">
+      <group>org.apache.commons</group>
+      <name>commons-lang3</name>
+      <version>3.12.0</version>
+      <purl>pkg:maven/org.apache.commons/commons-lang3@3.12.0</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/com.google.guava/guava@25.1-jre">
+      <group>com.google.guava</group>
+      <name>guava</name>
+      <version>25.1-jre</version>
+      <purl>pkg:maven/com.google.guava/guava@25.1-jre</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/com.okta.jwt/okta-jwt-verifier@0.4.0">
+      <group>com.okta.jwt</group>
+      <name>okta-jwt-verifier</name>
+      <version>0.4.0</version>
+      <purl>pkg:maven/com.okta.jwt/okta-jwt-verifier@0.4.0</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/com.google.errorprone/error_prone_annotations@2.8.1">
+      <group>com.google.errorprone</group>
+      <name>error_prone_annotations</name>
+      <version>2.8.1</version>
+      <purl>pkg:maven/com.google.errorprone/error_prone_annotations@2.8.1</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/org.bouncycastle/bcprov-jdk15on@1.65">
+      <group>org.bouncycastle</group>
+      <name>bcprov-jdk15on</name>
+      <version>1.65</version>
+      <purl>pkg:maven/org.bouncycastle/bcprov-jdk15on@1.65</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/org.jetbrains.kotlin/kotlin-stdlib-common@1.3.71">
+      <group>org.jetbrains.kotlin</group>
+      <name>kotlin-stdlib-common</name>
+      <version>1.3.71</version>
+      <purl>pkg:maven/org.jetbrains.kotlin/kotlin-stdlib-common@1.3.71</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/com.google.api.grpc/proto-google-cloud-logging-v2@0.2.1">
+      <group>com.google.api.grpc</group>
+      <name>proto-google-cloud-logging-v2</name>
+      <version>0.2.1</version>
+      <purl>pkg:maven/com.google.api.grpc/proto-google-cloud-logging-v2@0.2.1</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/org.yaml/snakeyaml@1.23">
+      <group>org.yaml</group>
+      <name>snakeyaml</name>
+      <version>1.23</version>
+      <purl>pkg:maven/org.yaml/snakeyaml@1.23</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/com.google.api-client/google-api-client@1.31.1">
+      <group>com.google.api-client</group>
+      <name>google-api-client</name>
+      <version>1.31.1</version>
+      <purl>pkg:maven/com.google.api-client/google-api-client@1.31.1</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/org.eclipse.jetty/jetty-security@9.4.40.v20210413">
+      <group>org.eclipse.jetty</group>
+      <name>jetty-security</name>
+      <version>9.4.40.v20210413</version>
+      <purl>pkg:maven/org.eclipse.jetty/jetty-security@9.4.40.v20210413</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/org.jetbrains.kotlin/kotlin-stdlib@1.3.50">
+      <group>org.jetbrains.kotlin</group>
+      <name>kotlin-stdlib</name>
+      <version>1.3.50</version>
+      <purl>pkg:maven/org.jetbrains.kotlin/kotlin-stdlib@1.3.50</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/com.fasterxml.jackson.core/jackson-annotations@2.9.8">
+      <group>com.fasterxml.jackson.core</group>
+      <name>jackson-annotations</name>
+      <version>2.9.8</version>
+      <purl>pkg:maven/com.fasterxml.jackson.core/jackson-annotations@2.9.8</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/com.google.protobuf/protobuf-java@3.12.2">
+      <group>com.google.protobuf</group>
+      <name>protobuf-java</name>
+      <version>3.12.2</version>
+      <purl>pkg:maven/com.google.protobuf/protobuf-java@3.12.2</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/io.swagger/swagger-annotations@1.6.0">
+      <group>io.swagger</group>
+      <name>swagger-annotations</name>
+      <version>1.6.0</version>
+      <purl>pkg:maven/io.swagger/swagger-annotations@1.6.0</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/com.google.api/gax@1.65.0">
+      <group>com.google.api</group>
+      <name>gax</name>
+      <version>1.65.0</version>
+      <purl>pkg:maven/com.google.api/gax@1.65.0</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/javax.xml.bind/jaxb-api@2.2.2">
+      <group>javax.xml.bind</group>
+      <name>jaxb-api</name>
+      <version>2.2.2</version>
+      <purl>pkg:maven/javax.xml.bind/jaxb-api@2.2.2</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/com.fasterxml.jackson.module/jackson-module-jaxb-annotations@2.9.8">
+      <group>com.fasterxml.jackson.module</group>
+      <name>jackson-module-jaxb-annotations</name>
+      <version>2.9.8</version>
+      <purl>pkg:maven/com.fasterxml.jackson.module/jackson-module-jaxb-annotations@2.9.8</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/net.bytebuddy/byte-buddy@1.10.14">
+      <group>net.bytebuddy</group>
+      <name>byte-buddy</name>
+      <version>1.10.14</version>
+      <purl>pkg:maven/net.bytebuddy/byte-buddy@1.10.14</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/org.xmlunit/xmlunit-legacy@2.5.1">
+      <group>org.xmlunit</group>
+      <name>xmlunit-legacy</name>
+      <version>2.5.1</version>
+      <purl>pkg:maven/org.xmlunit/xmlunit-legacy@2.5.1</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/org.checkerframework/checker-qual@3.8.0">
+      <group>org.checkerframework</group>
+      <name>checker-qual</name>
+      <version>3.8.0</version>
+      <purl>pkg:maven/org.checkerframework/checker-qual@3.8.0</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/com.google.protobuf/protobuf-java-util@3.12.2">
+      <group>com.google.protobuf</group>
+      <name>protobuf-java-util</name>
+      <version>3.12.2</version>
+      <purl>pkg:maven/com.google.protobuf/protobuf-java-util@3.12.2</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/com.github.tomakehurst/wiremock@2.21.0">
+      <group>com.github.tomakehurst</group>
+      <name>wiremock</name>
+      <version>2.21.0</version>
+      <purl>pkg:maven/com.github.tomakehurst/wiremock@2.21.0</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/com.amazonaws/aws-java-sdk-config@1.11.438">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-config</name>
+      <version>1.11.438</version>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-config@1.11.438</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/org.eclipse.jetty/jetty-continuation@9.4.40.v20210413">
+      <group>org.eclipse.jetty</group>
+      <name>jetty-continuation</name>
+      <version>9.4.40.v20210413</version>
+      <purl>pkg:maven/org.eclipse.jetty/jetty-continuation@9.4.40.v20210413</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/org.eclipse.jetty/jetty-util-ajax@9.4.40.v20210413">
+      <group>org.eclipse.jetty</group>
+      <name>jetty-util-ajax</name>
+      <version>9.4.40.v20210413</version>
+      <purl>pkg:maven/org.eclipse.jetty/jetty-util-ajax@9.4.40.v20210413</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/com.nimbusds/nimbus-jose-jwt@5.5">
+      <group>com.nimbusds</group>
+      <name>nimbus-jose-jwt</name>
+      <version>5.5</version>
+      <purl>pkg:maven/com.nimbusds/nimbus-jose-jwt@5.5</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/com.google.auth/google-auth-library-credentials@0.9.1">
+      <group>com.google.auth</group>
+      <name>google-auth-library-credentials</name>
+      <version>0.9.1</version>
+      <purl>pkg:maven/com.google.auth/google-auth-library-credentials@0.9.1</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/org.glassfish.jersey.ext/jersey-entity-filtering@2.31">
+      <group>org.glassfish.jersey.ext</group>
+      <name>jersey-entity-filtering</name>
+      <version>2.31</version>
+      <purl>pkg:maven/org.glassfish.jersey.ext/jersey-entity-filtering@2.31</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/commons-configuration/commons-configuration@1.10">
+      <group>commons-configuration</group>
+      <name>commons-configuration</name>
+      <version>1.10</version>
+      <purl>pkg:maven/commons-configuration/commons-configuration@1.10</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/org.eclipse.jetty/jetty-webapp@9.4.40.v20210413">
+      <group>org.eclipse.jetty</group>
+      <name>jetty-webapp</name>
+      <version>9.4.40.v20210413</version>
+      <purl>pkg:maven/org.eclipse.jetty/jetty-webapp@9.4.40.v20210413</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/org.latencyutils/LatencyUtils@2.0.3">
+      <group>org.latencyutils</group>
+      <name>LatencyUtils</name>
+      <version>2.0.3</version>
+      <purl>pkg:maven/org.latencyutils/LatencyUtils@2.0.3</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/com.google.cloud.datastore/datastore-v1-proto-client@1.6.0">
+      <group>com.google.cloud.datastore</group>
+      <name>datastore-v1-proto-client</name>
+      <version>1.6.0</version>
+      <purl>pkg:maven/com.google.cloud.datastore/datastore-v1-proto-client@1.6.0</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/javax.annotation/javax.annotation-api@1.3.2">
+      <group>javax.annotation</group>
+      <name>javax.annotation-api</name>
+      <version>1.3.2</version>
+      <purl>pkg:maven/javax.annotation/javax.annotation-api@1.3.2</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/com.fasterxml.jackson.jaxrs/jackson-jaxrs-base@2.9.8">
+      <group>com.fasterxml.jackson.jaxrs</group>
+      <name>jackson-jaxrs-base</name>
+      <version>2.9.8</version>
+      <purl>pkg:maven/com.fasterxml.jackson.jaxrs/jackson-jaxrs-base@2.9.8</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/org.checkerframework/checker-compat-qual@2.5.5">
+      <group>org.checkerframework</group>
+      <name>checker-compat-qual</name>
+      <version>2.5.5</version>
+      <purl>pkg:maven/org.checkerframework/checker-compat-qual@2.5.5</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/org.pegdown/pegdown@1.5.0">
+      <group>org.pegdown</group>
+      <name>pegdown</name>
+      <version>1.5.0</version>
+      <purl>pkg:maven/org.pegdown/pegdown@1.5.0</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/com.amazonaws/aws-java-sdk-s3@1.11.438">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-s3</name>
+      <version>1.11.438</version>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-s3@1.11.438</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/com.mchange/c3p0@0.9.5.1">
+      <group>com.mchange</group>
+      <name>c3p0</name>
+      <version>0.9.5.1</version>
+      <purl>pkg:maven/com.mchange/c3p0@0.9.5.1</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/io.grpc/grpc-netty-shaded@1.32.2">
+      <group>io.grpc</group>
+      <name>grpc-netty-shaded</name>
+      <version>1.32.2</version>
+      <purl>pkg:maven/io.grpc/grpc-netty-shaded@1.32.2</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/org.reactivestreams/reactive-streams@1.0.3">
+      <group>org.reactivestreams</group>
+      <name>reactive-streams</name>
+      <version>1.0.3</version>
+      <purl>pkg:maven/org.reactivestreams/reactive-streams@1.0.3</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/org.eclipse.jetty.websocket/websocket-server@9.4.40.v20210413">
+      <group>org.eclipse.jetty.websocket</group>
+      <name>websocket-server</name>
+      <version>9.4.40.v20210413</version>
+      <purl>pkg:maven/org.eclipse.jetty.websocket/websocket-server@9.4.40.v20210413</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/com.google.code.findbugs/jsr305@3.0.2">
+      <group>com.google.code.findbugs</group>
+      <name>jsr305</name>
+      <version>3.0.2</version>
+      <purl>pkg:maven/com.google.code.findbugs/jsr305@3.0.2</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/com.amazonaws/aws-java-sdk-sts@1.11.438">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-sts</name>
+      <version>1.11.438</version>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-sts@1.11.438</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/io.netty/netty-common@4.1.45.Final">
+      <group>io.netty</group>
+      <name>netty-common</name>
+      <version>4.1.45.Final</version>
+      <purl>pkg:maven/io.netty/netty-common@4.1.45.Final</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/com.fasterxml.jackson.dataformat/jackson-dataformat-cbor@2.9.8">
+      <group>com.fasterxml.jackson.dataformat</group>
+      <name>jackson-dataformat-cbor</name>
+      <version>2.9.8</version>
+      <purl>pkg:maven/com.fasterxml.jackson.dataformat/jackson-dataformat-cbor@2.9.8</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/com.github.tomakehurst/wiremock-jre8-standalone@2.27.2">
+      <group>com.github.tomakehurst</group>
+      <name>wiremock-jre8-standalone</name>
+      <version>2.27.2</version>
+      <purl>pkg:maven/com.github.tomakehurst/wiremock-jre8-standalone@2.27.2</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/org.glassfish.hk2/hk2-api@2.6.1">
+      <group>org.glassfish.hk2</group>
+      <name>hk2-api</name>
+      <version>2.6.1</version>
+      <purl>pkg:maven/org.glassfish.hk2/hk2-api@2.6.1</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/com.flipkart.zjsonpatch/zjsonpatch@0.4.4">
+      <group>com.flipkart.zjsonpatch</group>
+      <name>zjsonpatch</name>
+      <version>0.4.4</version>
+      <purl>pkg:maven/com.flipkart.zjsonpatch/zjsonpatch@0.4.4</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/org.glassfish.jersey.containers/jersey-container-servlet@2.31">
+      <group>org.glassfish.jersey.containers</group>
+      <name>jersey-container-servlet</name>
+      <version>2.31</version>
+      <purl>pkg:maven/org.glassfish.jersey.containers/jersey-container-servlet@2.31</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/com.nimbusds/lang-tag@1.4.3">
+      <group>com.nimbusds</group>
+      <name>lang-tag</name>
+      <version>1.4.3</version>
+      <purl>pkg:maven/com.nimbusds/lang-tag@1.4.3</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/com.google.cloud/google-cloud-datastore@1.70.0">
+      <group>com.google.cloud</group>
+      <name>google-cloud-datastore</name>
+      <version>1.70.0</version>
+      <purl>pkg:maven/com.google.cloud/google-cloud-datastore@1.70.0</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/org.glassfish.hk2.external/jakarta.inject@2.6.1">
+      <group>org.glassfish.hk2.external</group>
+      <name>jakarta.inject</name>
+      <version>2.6.1</version>
+      <purl>pkg:maven/org.glassfish.hk2.external/jakarta.inject@2.6.1</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/org.scala-lang/scala-library@2.11.1">
+      <group>org.scala-lang</group>
+      <name>scala-library</name>
+      <version>2.11.1</version>
+      <purl>pkg:maven/org.scala-lang/scala-library@2.11.1</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/com.newrelic.telemetry/telemetry@0.7.0">
+      <group>com.newrelic.telemetry</group>
+      <name>telemetry</name>
+      <version>0.7.0</version>
+      <purl>pkg:maven/com.newrelic.telemetry/telemetry@0.7.0</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/com.amazonaws/aws-java-sdk-elasticloadbalancingv2@1.11.438">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-elasticloadbalancingv2</name>
+      <version>1.11.438</version>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-elasticloadbalancingv2@1.11.438</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/net.minidev/accessors-smart@1.2">
+      <group>net.minidev</group>
+      <name>accessors-smart</name>
+      <version>1.2</version>
+      <purl>pkg:maven/net.minidev/accessors-smart@1.2</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/com.squareup.okio/okio@1.13.0">
+      <group>com.squareup.okio</group>
+      <name>okio</name>
+      <version>1.13.0</version>
+      <purl>pkg:maven/com.squareup.okio/okio@1.13.0</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/com.fasterxml.jackson.dataformat/jackson-dataformat-smile@2.9.8">
+      <group>com.fasterxml.jackson.dataformat</group>
+      <name>jackson-dataformat-smile</name>
+      <version>2.9.8</version>
+      <purl>pkg:maven/com.fasterxml.jackson.dataformat/jackson-dataformat-smile@2.9.8</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/javax.websocket/javax.websocket-client-api@1.0">
+      <group>javax.websocket</group>
+      <name>javax.websocket-client-api</name>
+      <version>1.0</version>
+      <purl>pkg:maven/javax.websocket/javax.websocket-client-api@1.0</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/commons-codec/commons-codec@1.10">
+      <group>commons-codec</group>
+      <name>commons-codec</name>
+      <version>1.10</version>
+      <purl>pkg:maven/commons-codec/commons-codec@1.10</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/commons-io/commons-io@2.4">
+      <group>commons-io</group>
+      <name>commons-io</name>
+      <version>2.4</version>
+      <purl>pkg:maven/commons-io/commons-io@2.4</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/com.amazonaws/jmespath-java@1.11.91">
+      <group>com.amazonaws</group>
+      <name>jmespath-java</name>
+      <version>1.11.91</version>
+      <purl>pkg:maven/com.amazonaws/jmespath-java@1.11.91</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/io.grpc/grpc-protobuf@1.32.2">
+      <group>io.grpc</group>
+      <name>grpc-protobuf</name>
+      <version>1.32.2</version>
+      <purl>pkg:maven/io.grpc/grpc-protobuf@1.32.2</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/org.apache.axis/axis@1.4">
+      <group>org.apache.axis</group>
+      <name>axis</name>
+      <version>1.4</version>
+      <purl>pkg:maven/org.apache.axis/axis@1.4</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/io.perfmark/perfmark-api@0.23.0">
+      <group>io.perfmark</group>
+      <name>perfmark-api</name>
+      <version>0.23.0</version>
+      <purl>pkg:maven/io.perfmark/perfmark-api@0.23.0</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/org.jooq/jool-java-8@0.9.14">
+      <group>org.jooq</group>
+      <name>jool-java-8</name>
+      <version>0.9.14</version>
+      <purl>pkg:maven/org.jooq/jool-java-8@0.9.14</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/org.eclipse.jetty.websocket/javax-websocket-client-impl@9.4.40.v20210413">
+      <group>org.eclipse.jetty.websocket</group>
+      <name>javax-websocket-client-impl</name>
+      <version>9.4.40.v20210413</version>
+      <purl>pkg:maven/org.eclipse.jetty.websocket/javax-websocket-client-impl@9.4.40.v20210413</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/io.opencensus/opencensus-contrib-http-util@0.11.1">
+      <group>io.opencensus</group>
+      <name>opencensus-contrib-http-util</name>
+      <version>0.11.1</version>
+      <purl>pkg:maven/io.opencensus/opencensus-contrib-http-util@0.11.1</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/com.okta.commons/okta-config-check@1.2.1">
+      <group>com.okta.commons</group>
+      <name>okta-config-check</name>
+      <version>1.2.1</version>
+      <purl>pkg:maven/com.okta.commons/okta-config-check@1.2.1</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/org.threeten/threetenbp@1.3.3">
+      <group>org.threeten</group>
+      <name>threetenbp</name>
+      <version>1.3.3</version>
+      <purl>pkg:maven/org.threeten/threetenbp@1.3.3</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/io.micrometer/micrometer-registry-stackdriver@1.5.3">
+      <group>io.micrometer</group>
+      <name>micrometer-registry-stackdriver</name>
+      <version>1.5.3</version>
+      <purl>pkg:maven/io.micrometer/micrometer-registry-stackdriver@1.5.3</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/com.amazonaws/aws-java-sdk-ec2@1.11.439">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-ec2</name>
+      <version>1.11.439</version>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-ec2@1.11.439</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/com.amazonaws/aws-java-sdk-glue@1.11.438">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-glue</name>
+      <version>1.11.438</version>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-glue@1.11.438</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/com.google.j2objc/j2objc-annotations@1.3">
+      <group>com.google.j2objc</group>
+      <name>j2objc-annotations</name>
+      <version>1.3</version>
+      <purl>pkg:maven/com.google.j2objc/j2objc-annotations@1.3</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/org.ow2.asm/asm-analysis@8.0.1">
+      <group>org.ow2.asm</group>
+      <name>asm-analysis</name>
+      <version>8.0.1</version>
+      <purl>pkg:maven/org.ow2.asm/asm-analysis@8.0.1</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/com.google.api/gax-httpjson@0.42.0">
+      <group>com.google.api</group>
+      <name>gax-httpjson</name>
+      <version>0.42.0</version>
+      <purl>pkg:maven/com.google.api/gax-httpjson@0.42.0</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/org.codehaus.mojo/animal-sniffer-annotations@1.20">
+      <group>org.codehaus.mojo</group>
+      <name>animal-sniffer-annotations</name>
+      <version>1.20</version>
+      <purl>pkg:maven/org.codehaus.mojo/animal-sniffer-annotations@1.20</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/commons-logging/commons-logging@1.2">
+      <group>commons-logging</group>
+      <name>commons-logging</name>
+      <version>1.2</version>
+      <purl>pkg:maven/commons-logging/commons-logging@1.2</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/com.sun.xml.bind/jaxb-core@2.2.11">
+      <group>com.sun.xml.bind</group>
+      <name>jaxb-core</name>
+      <version>2.2.11</version>
+      <purl>pkg:maven/com.sun.xml.bind/jaxb-core@2.2.11</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/com.amazonaws/aws-java-sdk-kms@1.11.438">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-kms</name>
+      <version>1.11.438</version>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-kms@1.11.438</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/com.ibm.icu/icu4j@62.1">
+      <group>com.ibm.icu</group>
+      <name>icu4j</name>
+      <version>62.1</version>
+      <purl>pkg:maven/com.ibm.icu/icu4j@62.1</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/io.grpc/grpc-context@1.32.2">
+      <group>io.grpc</group>
+      <name>grpc-context</name>
+      <version>1.32.2</version>
+      <purl>pkg:maven/io.grpc/grpc-context@1.32.2</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/com.google.cloud/google-cloud-core@1.48.0">
+      <group>com.google.cloud</group>
+      <name>google-cloud-core</name>
+      <version>1.48.0</version>
+      <purl>pkg:maven/com.google.cloud/google-cloud-core@1.48.0</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/com.google.guava/listenablefuture@9999.0-empty-to-avoid-conflict-with-guava">
+      <group>com.google.guava</group>
+      <name>listenablefuture</name>
+      <version>9999.0-empty-to-avoid-conflict-with-guava</version>
+      <purl>pkg:maven/com.google.guava/listenablefuture@9999.0-empty-to-avoid-conflict-with-guava</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/javax.validation/validation-api@1.1.0.Final">
+      <group>javax.validation</group>
+      <name>validation-api</name>
+      <version>1.1.0.Final</version>
+      <purl>pkg:maven/javax.validation/validation-api@1.1.0.Final</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/com.google.api.grpc/proto-google-cloud-kms-v1@0.61.0">
+      <group>com.google.api.grpc</group>
+      <name>proto-google-cloud-kms-v1</name>
+      <version>0.61.0</version>
+      <purl>pkg:maven/com.google.api.grpc/proto-google-cloud-kms-v1@0.61.0</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/org.xmlunit/xmlunit-core@2.5.1">
+      <group>org.xmlunit</group>
+      <name>xmlunit-core</name>
+      <version>2.5.1</version>
+      <purl>pkg:maven/org.xmlunit/xmlunit-core@2.5.1</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/com.google.code.gson/gson@2.7">
+      <group>com.google.code.gson</group>
+      <name>gson</name>
+      <version>2.7</version>
+      <purl>pkg:maven/com.google.code.gson/gson@2.7</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/org.hdrhistogram/HdrHistogram@2.1.12">
+      <group>org.hdrhistogram</group>
+      <name>HdrHistogram</name>
+      <version>2.1.12</version>
+      <purl>pkg:maven/org.hdrhistogram/HdrHistogram@2.1.12</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/io.kubernetes/client-java-proto@3.0.0">
+      <group>io.kubernetes</group>
+      <name>client-java-proto</name>
+      <version>3.0.0</version>
+      <purl>pkg:maven/io.kubernetes/client-java-proto@3.0.0</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/com.amazonaws/aws-java-sdk-iam@1.11.438">
+      <group>com.amazonaws</group>
+      <name>aws-java-sdk-iam</name>
+      <version>1.11.438</version>
+      <purl>pkg:maven/com.amazonaws/aws-java-sdk-iam@1.11.438</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/com.squareup.okhttp/logging-interceptor@2.7.5">
+      <group>com.squareup.okhttp</group>
+      <name>logging-interceptor</name>
+      <version>2.7.5</version>
+      <purl>pkg:maven/com.squareup.okhttp/logging-interceptor@2.7.5</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/org.glassfish.jersey.media/jersey-media-jaxb@2.31">
+      <group>org.glassfish.jersey.media</group>
+      <name>jersey-media-jaxb</name>
+      <version>2.31</version>
+      <purl>pkg:maven/org.glassfish.jersey.media/jersey-media-jaxb@2.31</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/net.agkn/hll@1.6.0">
+      <group>net.agkn</group>
+      <name>hll</name>
+      <version>1.6.0</version>
+      <purl>pkg:maven/net.agkn/hll@1.6.0</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/com.fasterxml.jackson.jaxrs/jackson-jaxrs-json-provider@2.9.8">
+      <group>com.fasterxml.jackson.jaxrs</group>
+      <name>jackson-jaxrs-json-provider</name>
+      <version>2.9.8</version>
+      <purl>pkg:maven/com.fasterxml.jackson.jaxrs/jackson-jaxrs-json-provider@2.9.8</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/com.google.apis/google-api-services-cloudresourcemanager@v1-rev495-1.23.0">
+      <group>com.google.apis</group>
+      <name>google-api-services-cloudresourcemanager</name>
+      <version>v1-rev495-1.23.0</version>
+      <purl>pkg:maven/com.google.apis/google-api-services-cloudresourcemanager@v1-rev495-1.23.0</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/javax.websocket/javax.websocket-api@1.1">
+      <group>javax.websocket</group>
+      <name>javax.websocket-api</name>
+      <version>1.1</version>
+      <purl>pkg:maven/javax.websocket/javax.websocket-api@1.1</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/io.netty/netty-buffer@4.1.50.Final">
+      <group>io.netty</group>
+      <name>netty-buffer</name>
+      <version>4.1.50.Final</version>
+      <purl>pkg:maven/io.netty/netty-buffer@4.1.50.Final</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/commons-collections/commons-collections@3.2.2">
+      <group>commons-collections</group>
+      <name>commons-collections</name>
+      <version>3.2.2</version>
+      <purl>pkg:maven/commons-collections/commons-collections@3.2.2</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/org.glassfish.jersey.connectors/jersey-apache-connector@2.31">
+      <group>org.glassfish.jersey.connectors</group>
+      <name>jersey-apache-connector</name>
+      <version>2.31</version>
+      <purl>pkg:maven/org.glassfish.jersey.connectors/jersey-apache-connector@2.31</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/io.jsonwebtoken/jjwt-api@0.10.5">
+      <group>io.jsonwebtoken</group>
+      <name>jjwt-api</name>
+      <version>0.10.5</version>
+      <purl>pkg:maven/io.jsonwebtoken/jjwt-api@0.10.5</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/org.eclipse.jetty/jetty-client@9.4.40.v20210413">
+      <group>org.eclipse.jetty</group>
+      <name>jetty-client</name>
+      <version>9.4.40.v20210413</version>
+      <purl>pkg:maven/org.eclipse.jetty/jetty-client@9.4.40.v20210413</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/org.glassfish.jersey.core/jersey-server@2.31">
+      <group>org.glassfish.jersey.core</group>
+      <name>jersey-server</name>
+      <version>2.31</version>
+      <purl>pkg:maven/org.glassfish.jersey.core/jersey-server@2.31</purl>
+    </component>
+    
+
+    <component type="library" bom-ref="pkg:maven/org.glassfish.hk2/hk2-utils@2.6.1">
+      <group>org.glassfish.hk2</group>
+      <name>hk2-utils</name>
+      <version>2.6.1</version>
+      <purl>pkg:maven/org.glassfish.hk2/hk2-utils@2.6.1</purl>
+    </component>
+    
+
+  </components>
+</bom>
+
